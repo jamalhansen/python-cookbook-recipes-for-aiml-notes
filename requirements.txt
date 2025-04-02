@@ -3,3 +3,4 @@ nltk==3.9.1
 opencv-python==4.11.0.86
 requests==2.32.3
 openai==1.70.0
+scikit-learn==1.6.1
